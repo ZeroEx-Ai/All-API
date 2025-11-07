@@ -1,12 +1,12 @@
 {
   "dipto_api": "https://www.noobs-api.rf.gd/dipto",
+  "nayan_down": "https://nayan-video-downloader.vercel.app",
   "api": "http://65.109.80.126:20392",
   "api2": "http://65.109.80.126:20392",
   "sim": "http://65.109.80.126:20392",
   "gemini": "http://65.109.80.126:20732",
   "gpt4": "https://nayan-gpt4-37qr.onrender.com",
   "down_stream": "http://104.234.236.52:30196",
-  "api3": "http://104.234.236.59:30195",
-  "nayan_down": "https://nayan-video-downloader.vercel.app"
+  "api3": "http://104.234.236.59:30195"
 }
   
